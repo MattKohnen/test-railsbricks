@@ -7,6 +7,24 @@ class PagesController < ApplicationController
   end
   
   def inside
-  end 
+  end
+  
+  def pricing
+  end
+
+  def configuration
+  end
+  
+  def preview
+  end
+  
+  def deploy
+  end
+  
+  def install
+  end
+  
+  def dashboard
+  end
     
 end
